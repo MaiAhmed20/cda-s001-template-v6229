@@ -1,6 +1,6 @@
 {
     "configVersion": 2,
-    "appIdentifier": "ae.gov.cda.stg.cdadubai",
+    "appIdentifier": "com.ionicframework.cdadubai160192",
     "appName": "CDA Dubai",
     "bundleName": {
         "main": "CDADubai",
@@ -127,7 +127,7 @@
             "enabled": false
         },
         "pushNotifications": {
-            "enabled": false
+            "enabled": true
         },
         "crashlytics": {
             "enabled": false
@@ -136,7 +136,7 @@
             "enabled": false
         },
         "firebaseIos": {
-            "enabled": false
+            "enabled": true
         },
         "localNotifications": {
             "enabled": true
@@ -148,7 +148,7 @@
             "enabled": false
         }
     },
-    "appVersion": "1.1.891",
-    "buildNumber": 891,
-    "runtimeUrl": "https://stg2-digital.cda.gov.ae/"
+    "appVersion": "10.1.5",
+    "buildNumber": 900028,
+    "runtimeUrl": "https://digital.cda.gov.ae/"
 }
