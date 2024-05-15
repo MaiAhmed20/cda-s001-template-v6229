@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>83641469279-0n69rodf7o535q2dehi8qum05bdf8ssb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.83641469279-0n69rodf7o535q2dehi8qum05bdf8ssb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBm-s8mHHVugvqnkNzLoZoNujqfKrs4znw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>83641469279</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ionicframework.cdadubai160192</string>
+	<key>PROJECT_ID</key>
+	<string>cda-dubai-new</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cda-dubai-new.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:83641469279:ios:9a628a3b4268c90ebbceea</string>
+</dict>
+</plist>
